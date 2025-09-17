@@ -1,0 +1,8 @@
+{
+  "name": "ChitChat",
+  "description": "A feature-rich communication application that simulates live streaming, personal chat with an AI companion, file sharing, and video calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
